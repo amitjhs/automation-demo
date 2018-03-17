@@ -2,4 +2,5 @@ rootProject.name = 'automation-demo'
 include 'automation-framework'
 
 include 'demo-shopify'
+include 'demo-simplepage'
 

@@ -2,3 +2,16 @@
 /.idea/
 /.gradle/
 *.iml
+.gradle/
+.idea/modules/sample-automation/
+.idea/modules/selenium/
+.idea/modules/shopify-sample/
+.idea/modules/simplepage-sample/
+.idea/workspace.xml
+automation-framework/build/
+automation-framework/out/
+automation-framework/src/test/
+build/
+demo-shopify/build/
+demo-shopify/out/
+demo-shopify/src/main/
